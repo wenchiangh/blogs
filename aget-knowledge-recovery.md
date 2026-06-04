@@ -1,4 +1,4 @@
-# 从 Task Recovery 到 Evidence-Guided Recovery：AI Coding Agent 的低风险上下文恢复机制
+# Evidence-Guided Recovery：AI Coding Agent 的低风险上下文恢复机制
 
 ## 引言
 
